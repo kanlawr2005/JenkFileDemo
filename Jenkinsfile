@@ -4,7 +4,7 @@ pipeline {
 
 	tools {
 
-		maven 'mav'
+		maven 'my maven'
 
 		}
 
